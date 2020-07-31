@@ -1,0 +1,3 @@
+classes =35
+backup = backup/
+names=/models/logo_detection/obj.names
