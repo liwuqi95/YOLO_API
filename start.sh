@@ -1,1 +1,1 @@
-sudo docker run --gpus all -itv -p <docker_host_port>:1234 yolov4_inference_api_gpu
+sudo docker run --gpus all -itv -p 1234:1234 detection
