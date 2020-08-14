@@ -1,2 +1,3 @@
 .idea
-src/main/models
+/models
+test/node_modules

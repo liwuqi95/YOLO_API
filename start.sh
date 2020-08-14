@@ -1,1 +1,1 @@
-sudo docker run --gpus all -itv -p 1234:1234 detection
+docker run --gpus all -p 1234:1234 detection
